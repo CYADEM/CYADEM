@@ -1,11 +1,7 @@
-# Hello 👋, I'm Martin
+# Hello 👋, I am Martin
 
-¡Hola! Soy [Tu Nombre], [tu profesión o título], y estoy encantado de que hayas visitado mi perfil de GitHub. Aquí encontrarás información sobre mí y los proyectos en los que estoy trabajando. Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
-
-## Sobre míee****
-- 🌱 Actualmente estoy aprendiendo [tecnología o tema específico].
-- 💼 Trabajo como [tu puesto actual] en [tu empresa o institución].
-- 🎓 Graduado en [tu carrera o campo de estudio].
+# Social Links
+1. Aridi Services
 
 ## Proyectos destacados
 - [Proyecto 1]: Breve descripción del proyecto y enlace 👋al repositorio.

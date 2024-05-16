@@ -1,7 +1,7 @@
 # Hello 👋, I am Martin
 
 ## About me
-Soy un apasionado desarrollador de software con experiencia en varios proyectos interesantes. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de código abierto.
+🔭 I am currently working on Aridi Services(http://aridi.website)
 
 ## 🌐 Socials
 Puedes encontrarme en las siguientes redes sociales:

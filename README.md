@@ -1,13 +1,12 @@
 # Hello 👋, I am Martin
 
 ## About me
-🔭 I am currently working on Aridi Services(http://aridi.website)
+🔭 I am currently working on Aridi Services
+🌱 I am currently learning Android Development
 
 ## 🌐 Socials
-Puedes encontrarme en las siguientes redes sociales:
-- [Twitter](https://twitter.com/tu_usuario) ![Twitter](https://img.shields.io/twitter/follow/tu_usuario?style=social)
-- [LinkedIn](https://www.linkedin.com/in/tu_perfil/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-- [Sitio web](https://www.tusitio.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.tusitio.com)
+ | CV [View](https://drive.google.com/file/d/1IIAAup1hEx0wE5W3cJlTZ5mtfIS1GI9A/view?usp=drive_link)
+ | Aridi Website [GO](http://aridi.website)
 
 ## 💻 Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

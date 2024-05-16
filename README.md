@@ -19,4 +19,10 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - MongoDB
 
 ## GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+- Total Contributions: ![Total Contributions](https://img.shields.io/github/commit-activity/m/yourusername)
+- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/streak/yourusername)
+- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/longest-streak/yourusername)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)

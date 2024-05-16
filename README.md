@@ -1,7 +1,5 @@
 # Hello 👋, I am Martin
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CYADEM&style=flat-square&color=blueviolet)](https://github.com/CYADEM)
-
 ## About me
 🔭 I am currently working on Aridi Services
 🌱 I am currently learning Android Development
@@ -43,4 +41,7 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYADEM&layout=compact)
+
+##
+[![Profile Views](https://komarev.com/ghpvc/?username=CYADEM&style=flat-square&color=blueviolet)](https://github.com/CYADEM)
 

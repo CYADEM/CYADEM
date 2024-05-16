@@ -1,12 +1,11 @@
 # Hello 👋, I am Martin
 
 # About Me
-🔭 I am currently working on my Agency - Aridi Services
+🔭 I am currently working on my Agency - Aridi Services\n
 🌱 I am currently learning Android Development
 
-
-# Social Links
-CV [VIEW](https://drive.google.com/file/d/1IIAAup1hEx0wE5W3cJlTZ5mtfIS1GI9A/view?usp=drive_link)
+#🌐 Socials:
+CV [Click to View](https://drive.google.com/file/d/1IIAAup1hEx0wE5W3cJlTZ5mtfIS1GI9A/view?usp=drive_link)
 
 ## Proyectos destacados
 - [Proyecto 1]: Breve descripción del proyecto y enlace 👋al repositorio.

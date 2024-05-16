@@ -36,10 +36,11 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-- Total Contributions: ![Total Contributions](https://img.shields.io/github/commit-activity/m/yourusername)
-- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/streak/yourusername)
-- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/longest-streak/yourusername)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CYADEM&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+- Total Contributions: ![Total Contributions](https://img.shields.io/github/commit-activity/m/CYADEM)
+- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/streak/CYADEM)
+- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/longest-streak/CYADEM)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYADEM&layout=compact)
+

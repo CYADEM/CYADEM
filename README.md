@@ -1,5 +1,7 @@
 # Hello 👋, I am Martin
 
+![Profile Views](https://komarev.com/ghpvc/?username=CYADEM)
+
 ## About me
 🔭 I am currently working on Aridi Services
 🌱 I am currently learning Android Development

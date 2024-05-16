@@ -1,6 +1,6 @@
 # Hello 👋, I am Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=CYADEM)
+[![Profile Views](https://komarev.com/ghpvc/?username=CYADEM&style=flat-square&color=blueviolet)](https://github.com/CYADEM)
 
 ## About me
 🔭 I am currently working on Aridi Services

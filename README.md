@@ -1,27 +1,22 @@
 # Hello 👋, I am Martin
 
-# About Me
-🔭 I am currently working on my Agency - Aridi Services\n
-🌱 I am currently learning Android Development
+## About me
+Soy un apasionado desarrollador de software con experiencia en varios proyectos interesantes. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de código abierto.
 
-# 🌐 Socials:
-CV [Click to View](https://drive.google.com/file/d/1IIAAup1hEx0wE5W3cJlTZ5mtfIS1GI9A/view?usp=drive_link)
+## Socials
+Puedes encontrarme en las siguientes redes sociales:
+- [Twitter](https://twitter.com/tu_usuario) ![Twitter](https://img.shields.io/twitter/follow/tu_usuario?style=social)
+- [LinkedIn](https://www.linkedin.com/in/tu_perfil/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+- [Sitio web](https://www.tusitio.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.tusitio.com)
 
-## Proyectos destacados
-- [Proyecto 1]: Breve descripción del proyecto y enlace 👋al repositorio.
-- [Proyecto 2]: Breve descripción del proyecto y enlace al repositorio.
-- [Proyecto 3]: Breve descripción del proyecto y enlace al repositorio.
+## Technologies
+Aquí están algunas de las tecnologías con las que trabajo:
+- Python
+- JavaScript
+- HTML/CSS
+- React
+- Node.js
+- MongoDB
 
-## Lenguajes y herramientas
-- Aquí algunos de los lenguajes y herramientas con los que trabajo:
-  - [Lenguaje 1]
-  - [Lenguaje 2]
-  - [Herramienta 1]
-  - [Herramienta 2]
-
-## Contacto
-¡No dudes en contactarme! Puedes encontrarme en:
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Correo electrónico](tu@email.com)
-
-¡Gracias por pasar por aquí! 😊
+## GitHub Stats
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

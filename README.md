@@ -1,11 +1,4 @@
 ###
-<div align="center">
-  <a href="https://www.linkedin.com/in/martin-mendieta-a05058224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <h1 align="center">I am Martin Mendieta 👋</h1>
 
@@ -16,6 +9,12 @@
 ###
 
 <p align="left">I'm Web Developer | Game Developer & Graphic Designer. <br>I am from Santiago del Estero, Argentina.<br><br>- 🔭 I’m working on Aridi Arvices<br>- 📚 I'm currently learning Android Development<br><br>- Curriculum [View]<br>- Aridi Services [View]</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/martin-mendieta-a05058224/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 

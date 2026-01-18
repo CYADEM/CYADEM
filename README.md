@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Web Developer | Game Developer & Graphic Designer. <br>I am from Santiago del Estero, Argentina.<br><br>- 🔭 I’m working on Aridi Services<br>- 📚 I'm currently learning Android Development<br><br>- Curriculum <a href="https://drive.google.com/file/d/1IIAAup1hEx0wE5W3cJlTZ5mtfIS1GI9A/view?usp=drive_link">[View]</a><br>- Aridi Services <a href="http://aridi.website" target="_blank">[View]</a></p>
+<p align="left">I'm Web Developer | Game Developer & Graphic Designer. <br>I am from Santiago del Estero, Argentina.<br><br>- 🔭 I’m working on Aridi Services<br>- 📚 I'm currently learning Android Development<br><br>- Curriculum <a href="https://drive.google.com/file/d/1KvvgDed28l5QrHFJnsBQdlzO5z6fFTYY/view?usp=sharing">[View]</a><br>- Aridi Services <a href="http://aridi.website" target="_blank">[View]</a></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/martin-mendieta-a05058224/" target="_blank">
